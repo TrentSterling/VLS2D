@@ -8,5 +8,4 @@ I want to thank everyone who have stood behind me and supported me this far and 
 
 There will be more information as I get the time to post it.
 
--Jake, Pico Games
--www.picogames.com
+-Jake - www.picogames.com
