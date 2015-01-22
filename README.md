@@ -6,6 +6,8 @@ I expect to return to the open source project very soon but for now I look forwa
 
 I want to thank everyone who have stood behind me and supported me this far and I hope you will understand this decision!
 
+<b><i>There are currently a few bugs in this package that might but they should be cleared up soon</i></b>
+
 There will be more information as I get the time to post it.
 
 -Jake - www.picogames.com
