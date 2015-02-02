@@ -3,7 +3,7 @@ VLS2D is a 2D light creation system for use with the <b>Unity game engine</b>!
 
 <b>Downloads/Links</b>
 <ul>
-<li>Current '.unitypackage': http://bit.ly/1xJrudD</li>
+<li>Current '.unitypackage': http://bit.ly/1EzoWnW</li>
 <li>Asset Store: http://bit.ly/15A8sg6</li>
 </ul>
 
