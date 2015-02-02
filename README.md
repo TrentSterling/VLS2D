@@ -10,7 +10,7 @@ I want to thank everyone who have stood behind me and supported me this far and 
 
 <b>Downloads/Links</b>
 <ul>
-<li>Current '.unitypackage': http://bit.ly/1xJrudD<li>
+<li>Current '.unitypackage': http://bit.ly/1xJrudD</li>
 <li>Asset Store: http://bit.ly/15A8sg6</li>
 </ul>
 
