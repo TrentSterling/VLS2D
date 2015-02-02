@@ -8,7 +8,11 @@ I want to thank everyone who have stood behind me and supported me this far and 
 
 <b><i>Please keep in mind that this version is currently buggy as it is an alpha project. If you discover a bug or what you might think is a bug and do not see it on the list please add it to the bugs list. If you feel you can solve the bug, by all means please give it a shot! Otherwise, I or someone else will get to it as soon as we can.</i></b>
 
-Here is a link to the 3.1.3 version available through Unity's Asset Store: http://bit.ly/15A8sg6
+<b>Downloads/Links</b>
+<ul>
+<li>Current '.unitypackage': http://bit.ly/1xJrudD<li>
+<li>Asset Store: http://bit.ly/15A8sg6</li>
+</ul>
 
 There will be more information as I get the time to post it.
 
